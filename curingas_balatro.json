@@ -1,0 +1,1052 @@
+[
+    {
+        "Nome": "Joker",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+4 Mult",
+        "Preço Base": "2"
+    },
+    {
+        "Nome": "Coringa ganancioso",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Cartas jogadas com naipe de Diamante dão +4 Mult quando pontuadas",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "Coringa Lusty",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Cartas jogadas com naipe de Coração dão +4 Mult quando pontuadas",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "Coringa Colérico",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Cartas jogadas com naipe de Espadas dão +4 Mult quando pontuadas",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "Coringa Glutão",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Cartas jogadas com naipe de Clube dão +4 Mult quando pontuadas",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "Coringa alegre",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+8 Mult se a mão jogada contiver um Par",
+        "Preço Base": "3"
+    },
+    {
+        "Nome": "Coringa maluco",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+12 Mult se a mão jogada contém uma Trinca",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Coringa Maluco",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+20 Mult se a mão jogada contém uma quadra",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Coringa Maluco",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+12 Mult se a mão jogada contém um Straight",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Coringa engraçado",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+10 Mult se a mão jogada contiver um Flush",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Coringa Astuto",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+50 fichas se a mão jogada contiver um par",
+        "Preço Base": "3"
+    },
+    {
+        "Nome": "Coringa Astuto",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+100 fichas se a mão jogada contiver uma trinca",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Coringa Inteligente",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+150 fichas se a mão jogada contiver uma quadra",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Coringa tortuoso",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+100 fichas se a mão jogada contiver um Straight",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Coringa Astuto",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+80 fichas se a mão jogada contiver um Flush",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Meio Coringa",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+20 Mult se a mão jogada contiver 3 ou menos cartas",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "Cartões de Crédito",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Vá até -20 em dívidas",
+        "Preço Base": "1"
+    },
+    {
+        "Nome": "Bandeira",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+40 fichas para cada descarte restante",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "Cimeira Mística",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+15 Mult quando 0 descarta restantes",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "bola 8",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Crie uma carta de Planeta se a mão jogada contiver 2 ou mais 8s (deve ter espaço)",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "Impressão errada",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+ Mult aleatório (de 0 a 23 inclusive)",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Punho levantado",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Adiciona o dobro do valor da carta mais baixa em mãos ao Mult",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "Caos, o Palhaço",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "1 Reroll grátis por loja",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Cara assustadora",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Cartas com figuras jogadas dão +30 fichas quando pontuadas",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Coringa abstrato",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+3 Mult para cada carta Joker",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Gratificação atrasada",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Ganhe US 2 por descarte se nenhum descarte for usado até o final da rodada",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Gros michel",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+15 Mult; 1 chance em 4 desta carta ser destruída no final da rodada",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "Até Steven",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Cartas jogadas com valor par dão +4 Mult quando pontuadas (10, 8, 6, 4, 2)",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Estranho Todd",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Cartas jogadas com valor ímpar dão +30 fichas quando pontuadas (A, 9, 7, 5, 3)",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Estudioso",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Ases jogados dão +20 fichas e +4 Mult quando pontuados",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Cartão de visita",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "As cartas com figuras jogadas têm 1 chance em 2 de dar  2 quando pontuadas",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Supernova",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Adiciona o número de vezes que a mão de pôquer foi jogada ao Mult",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "Ride the Bus",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+1 Mult por mão consecutiva jogada sem uma carta com figura de pontuação",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "ovo",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Ganha 3 de valor de venda no final da rodada",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Corredor",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Ganha +10 fichas se a mão jogada contiver um Straight (começa com +20 fichas)",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "Ice Cream",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+100 Fichas (no início); -5 fichas para cada mão jogada",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "Respingo",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Cada carta jogada conta na pontuação",
+        "Preço Base": "3"
+    },
+    {
+        "Nome": "Coringa Azul",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+2 fichas para cada carta restante no baralho (com baralho normal são +104 fichas no início)",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "Coringa sem rosto",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Ganhe  5 se 3 ou mais cartas com figuras forem descartadas ao mesmo tempo",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Coringa Verde",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+1 Mult por mão jogada; -1 Mult por descarte",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Sobreposição",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Crie uma carta de tarô se a mão de pôquer contiver um Ás e uma Sequência (deve ter espaço)",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Lista De Afazeres",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Ganhe  5 se a mão de pôquer for uma [mão de pôquer aleatória]; A mão de pôquer muda a cada pagamento",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Tabaco em tabletes",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "X3 Mult; 1 chance em 1000 desta carta ser destruída no final da rodada (para obter esta carta, Gros Michel deve ser destruído.)",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Cartão vermelho",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Ganha +3 Mult quando qualquer Booster Pack é ignorado (em Mega booster packs, ele será ativado se você pular apenas a segunda carta).",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "Coringa Quadrado",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Ganha +4 fichas se a mão jogada tiver exatamente 4 cartas (começa com 16 fichas)",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "Ralé",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Quando Blind for selecionado, crie 2 Jokers Comuns",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Fotografia",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "A primeira carta jogada dá X2 Mult quando pontuada",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "Desconto por correio",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Ganhe 3 por cada [Classificação] descartada; a classificação muda a cada rodada",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Alucinação",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Chance de 1 em 2 de criar uma carta de Tarô quando qualquer Booster Pack for aberto (é necessário ter espaço)",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Vidente",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+1 Mult por carta de Tarot usada nesta corrida",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "Malabarista",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+1 tamanho da mão",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Bêbado",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+1 descarte",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Coringa Dourado",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Ganhe  4 no final da rodada",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "Pipoca",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+20 Mult; -4 Mult por rodada jogada (desaparece quando chega a zero)",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "Walkie Talkie",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Cada 10 ou 4 jogados dá +10 fichas e +4 Mult quando pontuado",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "smiley face",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Cartas com figuras jogadas dão +4 Mult quando pontuadas",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Bilhete dourado",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Jogue uma mão de 5 cartas que contenha apenas cartas Douradas",
+        "Efeito": "Cartas Gold jogadas ganham 3 quando pontuadas",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Espadachim",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Venda um total de 20 cartas Jokers",
+        "Efeito": "Adiciona o valor de venda de todos os Jokers possuídos restantes desta carta ao Mult",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Chade Suspenso",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Vença um chefe cego com uma carta alta",
+        "Efeito": "Retrigger a primeira carta jogada usada na pontuação",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "Fotografar a lua",
+        "Raridade": "Comum",
+        "Requisito de Desbloqueio": "Jogue todos os corações do seu deck em uma única rodada",
+        "Efeito": "+13 Mult para cada Rainha em mãos",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Estêncil do Coringa",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "X1 Mult para cada slot vazio do Joker (Joker Stencil incluído)",
+        "Preço Base": "8"
+    },
+    {
+        "Nome": "Quatro dedos",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Todos os Flushes e Straights podem ser feitos com 4 cartas",
+        "Preço Base": "7"
+    },
+    {
+        "Nome": "Mime",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Reativar todas as habilidades das cartas na mão",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "Adaga Cerimonial",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Quando Blind for selecionado, destrua o Joker à direita e adicione permanentemente o dobro do seu valor de venda a este Mult",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Coringa de Mármore",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Adiciona uma carta de Pedra ao baralho quando Cego é selecionado",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "Cartão de fidelidade",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "X4 Mult a cada 6 mãos jogadas",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "Crepúsculo",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Reacione todas as cartas jogadas na mão final da rodada",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "Fibonacci",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Cada Ás, 2, 3, 5 ou 8 jogado dá +8 Mult quando pontuado",
+        "Preço Base": "7"
+    },
+    {
+        "Nome": "Coringa de Aço",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Este Coringa ganha X0.25 Mult para cada Carta de Aço em seu baralho completo",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Hack",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Reacione cada 2, 3, 4 ou 5",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Pareidolia",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Todas as cartas são consideradas cartas com figuras",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "Coringa do Espaço",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "1 chance em 4 de melhorar o nível da mão de pôquer jogada (antes de pontuar)",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "Ladrão",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Quando Blind for selecionado, ganhe +3 Mãos e perca todos os descartes",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "Lousa",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "X3 Mult se todas as cartas na mão forem Espadas ou Paus",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "constelação",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Ganha X0.1 Mult por cartão Planet usado",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "Hiker",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Cada carta jogada ganha permanentemente +4 fichas quando pontuada",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "Cartão Afiado",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "X3 Mult se a mão de pôquer jogada já tiver sido jogada nesta rodada",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "Loucura",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Quando Blind for selecionado, ganhe X0.5 Mult e destrua um Joker aleatório",
+        "Preço Base": "7"
+    },
+    {
+        "Nome": "Vampiro",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Ganha X0.2 Mult por carta aprimorada jogada, remove o aprimoramento da carta",
+        "Preço Base": "7"
+    },
+    {
+        "Nome": "atalho",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Permite que Straights sejam feitos com gaps de 1 rank (ex: 2 3 5 7 8)",
+        "Preço Base": "7"
+    },
+    {
+        "Nome": "Holograma",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Ganha X0.25 Mult por carta adicionada ao seu baralho",
+        "Preço Base": "7"
+    },
+    {
+        "Nome": "vagabundo",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Crie uma carta de Tarô se a mão for jogada com US 3 ou menos",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "Nuvem 9",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Ganhe  1 para cada 9 do seu baralho completo no final da rodada (com o baralho normal custa  4)",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "Foguete",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Ganhe  1 no final da rodada. Ganha 2 quando Boss Blind é derrotado",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "Máscara de Midas",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Todas as cartas com figuras tornam-se cartas douradas quando jogadas",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "Lutador",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Venda esta carta para desabilitar o Boss Blind atual (durante a luta)",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Gift Card",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Adicione  1 de valor de venda a cada carta Joker e Consumível no final da rodada",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "Feijão Tartaruga",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+5 tamanho da mão, reduz em 1 a cada rodada (desaparece quando chega a zero)",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "Erosão",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+4 Mult para cada carta abaixo de 52 em seu baralho completo",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "Estacionamento Reservado",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Cada carta com figura na mão tem 1 chance em 2 de dar  1",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "Para a lua",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Ganhe  1 extra de juros para cada  5 que você tiver no final da rodada",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "Coringa de Pedra",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Este Coringa ganha +25 Fichas para cada Carta de Pedra do seu baralho completo",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Gato da sorte",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Ganha X0.2 Mult cada vez que uma carta da Sorte é acionada com sucesso",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Touro",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+2 fichas para cada dólar que você tiver",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "Coca Diet",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Venda este cartão para criar uma etiqueta dupla gratuita",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "Cartão colecionável",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Se o primeiro descarte da rodada tiver apenas 1 carta, destrua-a e ganhe 3",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "Cartão Flash",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "+2 Mult por relançamento na loja",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "Calças sobressalentes",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Ganha +2 mult se a mão jogada contiver Dois Pares",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "Ramen",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "X2 Mult, perde X0.01 Mult por carta descartada",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "Seltzer",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Reaciona todas as cartas jogadas nas próximas 10 mãos (desaparece quando chega a zero)",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "Castelo",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Este Coringa ganha +3 fichas por carta [Naipe] descartada, o naipe muda a cada rodada",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Sr. Bones",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Perder 5 corridas",
+        "Efeito": "Evita a Morte se as fichas pontuadas forem pelo menos 25% das fichas exigidas; autodestrói",
+        "Preço Base": "5"
+    },
+    {
+        "Nome": "acrobata",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Jogue 200 mãos",
+        "Efeito": "X3 Mult na mão final da rodada",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "Meia e Buskin",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Jogue um total de 300 cartas com figuras",
+        "Efeito": "Reativa todas as cartas com figuras jogadas",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "Trovador",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Ganhe 5 rodadas consecutivas jogando apenas 1 mão",
+        "Efeito": "+2 tamanho de mão, -1 mão por rodada",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "Certificado",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Tenha uma carta de baralho dourada com selo dourado",
+        "Efeito": "Quando a rodada começar, adicione uma carta aleatória com um selo aleatório à sua mão",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Coringa manchado",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Tenha pelo menos 3 Wild Card em seu deck",
+        "Efeito": "Copas e Ouros contam como o mesmo naipe, Espadas e Paus contam como o mesmo naipe",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Retrocesso",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Continue uma corrida salva no menu principal",
+        "Efeito": "X0.25 Mult para cada Blind ignorado nesta corrida",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "Gema áspera",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Tenha pelo menos 30 cartas com naipe de Diamante em seu deck",
+        "Efeito": "Cartas jogadas com naipe de diamante custam  1 quando pontuadas",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Bloodstone",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Tenha pelo menos 30 cartas com o naipe de Copas em seu baralho",
+        "Efeito": "1 chance em 3 de cartas jogadas com naipe de coração dão X2 Mult quando pontuadas",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Arrowhead",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Tenha pelo menos 30 cartas do naipe de Espadas em seu deck",
+        "Efeito": "Cartas jogadas com naipe de espadas dão +50 fichas quando pontuadas",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Ágata Ônix",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Tenha pelo menos 30 cartas do naipe do Clube em seu baralho",
+        "Efeito": "Cartas jogadas com Club Suit dão +8 Mult quando pontuadas",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Coringa de vidro",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Tenha pelo menos 5 Cartas de Vidro em seu baralho",
+        "Efeito": "Ganhe X0.5 Mult para cada Carta de Vidro destruída",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Diretor de circo",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Alcance o nível 4 de Ante",
+        "Efeito": "As cartas Joker, Tarot, Planet e Spectral podem aparecer várias vezes",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Vaso de flores",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Alcance o nível 8 de Ante",
+        "Efeito": "X3 Mult se a mão jogada tiver uma carta de Diamante, carta de Clube, carta de Copas e carta de Espadas de pontuação",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "Feliz Andy",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Ganhe uma corrida em 12 rodadas ou menos",
+        "Efeito": "+3 descartes, -1 tamanho da mão",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Ops! Todos os 6",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Em uma mão, ganhe pelo menos 10.000 fichas",
+        "Efeito": "Duplica todas as probabilidades listadas (ex: 1 em 3 -> 2 em 3)",
+        "Preço Base": "4"
+    },
+    {
+        "Nome": "O ídolo",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Em uma mão, ganhe pelo menos 1.000.000 fichas",
+        "Efeito": "Cada [Rank] de [Naipe] jogado dá X2 Mult quando pontuado; O cartão muda a cada rodada",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Vendo Dobro",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Jogue uma mão que contenha quatro 7 de Paus",
+        "Efeito": "X2 Mult se a mão jogada tiver uma carta do Clube de pontuação e uma carta de pontuação de qualquer outro naipe",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Matador",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Derrote um Boss Blind em 1 mão sem usar nenhum descarte",
+        "Efeito": "Ganhe  8 se a mão jogada ativar a habilidade Boss Blind",
+        "Preço Base": "7"
+    },
+    {
+        "Nome": "Dublê",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Em uma mão, ganhe pelo menos 100.000.000 fichas",
+        "Efeito": "+300 fichas, -2 tamanho da mão",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Satélite",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Tenha  400 ou mais",
+        "Efeito": "Ganhe  1 no final da rodada por cartão Planet exclusivo usado nesta corrida",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Cartomante",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Descubra todas as cartas do Tarot",
+        "Efeito": "Crie uma carta de Tarô quando Blind for selecionado (deve ter espaço)",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Astrônomo",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Descubra todas as cartas do Planeta",
+        "Efeito": "Todos os cartões Planet e Pacotes Celestiais na loja são gratuitos",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Coringa Queimado",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Venda um total de 50 cartões",
+        "Efeito": "Aumente o nível da primeira mão de pôquer descartada a cada rodada",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Botas de inicialização",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Tenha pelo menos 2 Jokers Policromados",
+        "Efeito": "+2 Mult para cada  5 que você tem",
+        "Preço Base": "7"
+    },
+    {
+        "Nome": "DNA",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Se a primeira mão da rodada tiver apenas 1 carta, adicione uma cópia permanente ao baralho e compre-a para a mão",
+        "Preço Base": "8"
+    },
+    {
+        "Nome": "Sexto Sentido",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Se a primeira mão da rodada for um único 6, destrua-o e crie uma carta Espectral (deve ter espaço)",
+        "Preço Base": "6"
+    },
+    {
+        "Nome": "Séance",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Se a mão de pôquer for Straight Flush, crie uma carta espectral aleatória (deve ter espaço)",
+        "Preço Base": "7"
+    },
+    {
+        "Nome": "barão",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Cada Rei em mãos dá X1.5 Mult",
+        "Preço Base": "8"
+    },
+    {
+        "Nome": "Obelisco",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "X0.2 Mult por mão consecutiva jogada sem jogar sua mão de pôquer mais jogada",
+        "Preço Base": "8"
+    },
+    {
+        "Nome": "Cartão de beisebol",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Cada um dos curingas incomuns dá X1.5 Mult",
+        "Preço Base": "8"
+    },
+    {
+        "Nome": "Coringa Antigo",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Cada carta jogada com naipe [Naipe] dá X1.5 Mult quando pontuada; mudanças de terno no final da rodada",
+        "Preço Base": "8"
+    },
+    {
+        "Nome": "fogueira",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Disponível desde o início",
+        "Efeito": "Este Joker ganha X0.5 Mult para cada carta vendida, reinicia quando Boss Blind é derrotado",
+        "Preço Base": "9"
+    },
+    {
+        "Nome": "Diagrama",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Ganhe uma corrida",
+        "Efeito": "Copia a habilidade do Joker para a direita",
+        "Preço Base": "10"
+    },
+    {
+        "Nome": "Pequeno Coringa",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Ganhe uma corrida em 18 rodadas ou menos",
+        "Efeito": "Este Joker ganha +8 fichas quando cada 2 jogadas é pontuada (começa com +10 fichas)",
+        "Preço Base": "8"
+    },
+    {
+        "Nome": "Pegue a estrada",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Descarte 5 Valetes ao mesmo tempo",
+        "Efeito": "Ganha X0.5 Mult por Valete descartado nesta rodada",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "A dupla",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Ganhe uma corrida sem jogar um par (dois pares e outras mãos de pôquer que contenham um par são aceitáveis)",
+        "Efeito": "X2 Mult se a mão jogada contém um par",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "O Trio",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Ganhe uma corrida sem jogar uma Trinca",
+        "Efeito": "X3 Mult se a mão jogada contém uma trinca",
+        "Preço Base": "8"
+    },
+    {
+        "Nome": "A Família",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Ganhe uma corrida sem jogar uma quadra",
+        "Efeito": "X4 Mult se a mão jogada contém uma quadra.",
+        "Preço Base": "8"
+    },
+    {
+        "Nome": "A Ordem",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Ganhe uma corrida sem jogar um Straight",
+        "Efeito": "X3 Mult se a mão jogada contém um Straight",
+        "Preço Base": "8"
+    },
+    {
+        "Nome": "A tribo",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Ganhe uma corrida sem jogar Flush",
+        "Efeito": "X2 Mult se a mão jogada contém um Flush",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Coringa Invisível",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Ganhe uma corrida sem nunca ter mais de 4 Jokers",
+        "Efeito": "Após 3 rodadas, venda esta carta para duplicar um Joker aleatório",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "chuva de ideias",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Descarte um Royal Flush",
+        "Efeito": "Copia a habilidade do Joker mais à esquerda",
+        "Preço Base": "0"
+    },
+    {
+        "Nome": "Carteira de motorista",
+        "Raridade": "Incomum",
+        "Requisito de Desbloqueio": "Melhore 16 cartas no seu baralho",
+        "Efeito": "X3 Mult se você tiver pelo menos 16 cartas aprimoradas",
+        "Preço Base": "7"
+    },
+    {
+        "Nome": "Canio",
+        "Raridade": "Lendário",
+        "Requisito de Desbloqueio": "Obtido usando a Carta Espectral da Alma",
+        "Efeito": "Ganha Mult X1 quando uma carta com figura é destruída",
+        "Preço Base": "9999999"
+    },
+    {
+        "Nome": "Tribuuleto",
+        "Raridade": "Lendário",
+        "Requisito de Desbloqueio": "Obtido usando a Carta Espectral da Alma",
+        "Efeito": "Reis e Rainhas jogados dão X2 Mult cada um quando pontuados",
+        "Preço Base": "9999999"
+    },
+    {
+        "Nome": "Yorick",
+        "Raridade": "Lendário",
+        "Requisito de Desbloqueio": "Obtido usando a Carta Espectral da Alma",
+        "Efeito": "X5 Mult somente após usar 23 descartes",
+        "Preço Base": "9999999"
+    },
+    {
+        "Nome": "Chicot",
+        "Raridade": "Lendário",
+        "Requisito de Desbloqueio": "Obtido usando a Carta Espectral da Alma",
+        "Efeito": "Desativa o efeito de cada Boss Blind",
+        "Preço Base": "9999999"
+    },
+    {
+        "Nome": "Perkeo",
+        "Raridade": "Lendário",
+        "Requisito de Desbloqueio": "Obtido usando a Carta Espectral da Alma",
+        "Efeito": "Cria uma cópia negativa de 1 carta consumível aleatória em sua posse no final da loja",
+        "Preço Base": "9999999"
+    }
+]
