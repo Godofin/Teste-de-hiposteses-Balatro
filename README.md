@@ -1,4 +1,4 @@
-## Pré Análise - Curingas Balatro
+# Pré Análise - Curingas Balatro
 
 ## Informações Gerais do Dataset
 
