@@ -74,7 +74,7 @@ A análise de clusters revela quatro grupos distintos de curingas:
 
 - Cluster 3 (28 curingas):
   - Todos são de raridade Incomum
-  - Preço base médio: 0.00
+  - Preço base médio: 2.00
   - Incluem "Adaga Cerimonial", "Coringa de Aço", "Hack"
  
 ## Conclusões Finais
